@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 --> 
 
 
-Hi welcome here!
+Welcome here!
 
 I am a mobile developer and currently work with the Flutter framework (Dart).
 
