@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 Hi welcome here!
 
-🔭 I’m currently working on Flutter
-
-
 I am a mobile developer and currently work with the Flutter framework (Dart).
 
 All of my study projects here in the repository.
